@@ -1,0 +1,64 @@
+/* BMI calculator */
+ body {
+   background-color: #212121;
+  color: #fff;
+ }     
+ .container2{
+   text-align: center;
+}
+ 
+#results{
+   background-color: #a34545;
+   color: bisque;
+   text-align: center;
+ }
+ h1{
+ background-color: #a34545;
+ }
+
+/* background color */
+
+span {
+  display: block;
+}
+.container1 {
+  margin: 100px auto 100px;
+  width: 50%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#grey {
+  background: grey;
+}
+
+#orange {
+  background: orange;
+}
+#blue {
+  background: blue;
+}
+#green {
+  background: green;
+}
+
+/* table */
+
+table{
+  margin: 20px auto;
+  background-color:darkred;
+  color:white;
+}
+table, th, td {
+  border: 2px solid #000; 
+}
+th, td {
+  padding: 10px; 
+  text-align: center; 
+}
